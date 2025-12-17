@@ -1,0 +1,6 @@
+if SHIELD_VASTIERPEDAL
+
+config ZMK_KEYBOARD_NAME
+    default "vastierpedal"
+
+endif # SHIELD_VASTIERPEDAL
