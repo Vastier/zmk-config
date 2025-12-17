@@ -18,11 +18,11 @@
         
         bt_layer {
             bindings = <
-                &trans     &kp KP_F20     &kp KP_F24     &bootloader
-                &trans     &trans     &trans     &trans
-                &trans     &trans     &trans
-                &trans     &trans     &trans     &trans
-                &trans     &trans
+                &trans          &kp KP_F20      &kp KP_F24     &bootloader
+                &trans          &trans          &trans         &trans
+                &trans          &trans          &trans
+                &trans          &trans          &trans         &trans
+                &trans          &trans
             >;
         };
     };
