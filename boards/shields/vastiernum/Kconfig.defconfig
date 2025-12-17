@@ -1,0 +1,6 @@
+if SHIELD_VASTIERNUM
+
+config ZMK_KEYBOARD_NAME
+    default "VastierNum"
+
+endif # SHIELD_VASTIERNUM
